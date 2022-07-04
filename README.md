@@ -1,4 +1,4 @@
-# WetherAnnounceBot
+# WeatherAnnounceBot
 /weatherで天気、風向き、波の高さを教えてくれます。
 
 [エリアコード]に自分の住んでいる所のコードを入力することで設定ができます。
