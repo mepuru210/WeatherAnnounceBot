@@ -40,7 +40,7 @@ async def weather(ctx):
         value=jma_wave,
         inline=False
         )
-    embed.set_footer(text="Produced by Paradox Community ©︎")
+    embed.set_footer(text="Produced by mepuru209")
     await ctx.send(embed=embed)
 
 bot.run(token)
